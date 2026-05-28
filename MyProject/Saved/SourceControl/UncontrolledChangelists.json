@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/level/inscryption.umap",
+				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/ANGOLO.uasset",
+				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/TETTO_PIATTO.uasset",
+				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/glass.uasset",
+				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/infissi.uasset",
+				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/polySurface2459.uasset",
+				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/polySurface2515.uasset",
+				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/polySurface2536.uasset",
+				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/polySurface2564.uasset",
+				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/polySurface2606.uasset",
+				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/polySurface2689.uasset",
+				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/polySurface2696.uasset",
+				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/polySurface2728.uasset",
+				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/standardSurface1.uasset"
+			]
+		}
+	]
+}
