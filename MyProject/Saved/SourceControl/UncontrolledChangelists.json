@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/feder/Git/IscryptionProject/MyProject/Content/level/inscryption.umap",
 				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/level/inscryption.umap",
 				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/ANGOLO.uasset",
 				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/TETTO_PIATTO.uasset",
@@ -19,7 +18,9 @@
 				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/polySurface2689.uasset",
 				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/polySurface2696.uasset",
 				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/polySurface2728.uasset",
-				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/standardSurface1.uasset"
+				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/standardSurface1.uasset",
+				"C:/Users/utente/Documents/GitHub/IscryptionProject/MyProject/Content/import/architecture/parquet.uasset",
+				"C:/Users/feder/Git/IscryptionProject/MyProject/Content/level/inscryption.umap"
 			]
 		}
 	]

@@ -1,15 +1,6 @@
-[6180:19900:0528/165332.290:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[6180:19900:0528/165332.300:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Chiave non utilizzabile nello stato specificato. (0x8009000B)
-[6180:10200:0528/165332.321:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[6180:19900:0528/165332.331:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[6180:22852:0528/165333.973:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[6180:22852:0528/165333.975:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[6180:22852:0528/165333.976:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[6180:22852:0528/165333.978:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[6180:18328:0528/165334.180:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[6180:18328:0528/165334.184:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[23948:26376:0528/165334.599:ERROR:backend_impl.cc(989)] Critical error found -8
-[23948:26376:0528/165334.803:WARNING:storage_block-inl.h(138)] Failed data load.
-[22504:13448:0528/165334.827:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C3A956553FF1D8D3F986CCCB9D0B6C95 will be ignored
-[6180:19900:0528/165338.254:ERROR:device_event_log_impl.cc(196)] [16:53:38.181] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
-[6180:19900:0528/165351.763:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[39488:28128:0528/165743.652:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[39488:28128:0528/165743.664:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Chiave non utilizzabile nello stato specificato. (0x8009000B)
+[39488:27520:0528/165743.683:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[39488:28128:0528/165743.702:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24624:36656:0528/165746.823:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4C05EAA4605435A76D1693B3B4946A23 will be ignored
+[39488:28128:0528/172752.639:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
