@@ -1,2 +1,3 @@
-2026/05/28-11:58:32.872 6804 Creating DB C:\Users\utente\Desktop\provafedeluci\MyProject\Saved\webcache_6613\Default\shared_proto_db since it was missing.
-2026/05/28-11:58:32.881 6804 Reusing MANIFEST C:\Users\utente\Desktop\provafedeluci\MyProject\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/05/28-14:01:34.330 9898 Reusing MANIFEST C:\Users\utente\Documents\GitHub\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/05/28-14:01:34.330 9898 Recovering log #3
+2026/05/28-14:01:34.330 9898 Reusing old log C:\Users\utente\Documents\GitHub\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db/000003.log 
