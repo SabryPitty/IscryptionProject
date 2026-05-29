@@ -1,14 +1,27 @@
-[19628:22008:0528/173844.199:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[19628:22008:0528/173844.208:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Chiave non utilizzabile nello stato specificato. (0x8009000B)
-[19628:14320:0528/173844.223:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[19628:22008:0528/173844.236:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[19628:14320:0528/173846.080:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19628:14320:0528/173846.082:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19628:14320:0528/173846.085:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19628:14320:0528/173846.086:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19628:23744:0528/173846.289:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19628:23744:0528/173846.293:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17256:5068:0528/173847.795:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A199B6EA9EAD9C704B895EB79D3C8AAF will be ignored
-[19628:22008:0528/173852.713:ERROR:device_event_log_impl.cc(196)] [17:38:52.671] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
-[19628:22008:0528/175132.916:ERROR:device_event_log_impl.cc(196)] [17:51:32.907] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
-[19628:22008:0528/180212.263:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[30816:31468:0529/102908.582:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[30816:30108:0529/102908.605:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[30816:31468:0529/102908.616:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[30816:29020:0529/102915.665:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[30816:29020:0529/102915.667:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[30816:29020:0529/102915.669:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[30816:29020:0529/102915.670:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\feder\Git\IscryptionProject\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[30816:30108:0529/102915.887:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[30816:30108:0529/102915.888:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[30816:31468:0529/102915.920:ERROR:device_event_log_impl.cc(196)] [10:29:15.888] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
+[29896:29852:0529/102916.152:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CB4F2F67C4AD45F668ADFD61E929DE82 will be ignored
+[29868:30196:0529/102926.138:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[30816:30108:0529/103035.206:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29868:18056:0529/103035.208:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29868:18056:0529/110334.476:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30816:30108:0529/110334.481:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30816:31468:0529/110650.592:ERROR:device_event_log_impl.cc(196)] [11:06:50.541] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
+[29868:18056:0529/110711.051:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30816:29020:0529/110711.066:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30816:29020:0529/115137.487:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29868:15720:0529/115137.487:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30816:31468:0529/115343.327:ERROR:device_event_log_impl.cc(196)] [11:53:43.318] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
+[29868:18056:0529/115959.154:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30816:30108:0529/115959.164:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30816:31468:0529/120612.000:ERROR:device_event_log_impl.cc(196)] [12:06:11.670] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
+[30816:30108:0529/120821.219:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[30816:31468:0529/121631.229:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
